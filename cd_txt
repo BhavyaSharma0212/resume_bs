@@ -1,0 +1,216 @@
+\documentclass[8pt]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \lastupdated
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Bhavya}{Sharma}{
+Pre-final Year | Electrical Engineering | IIT Jodhpur
+
+\href{mailto:bhavyasharma1210@gmail.com}{bhavyasharma1210@gmailcom} |  +91-9227184291 | \href{
+https:https://bhavyasharma0212.github.io/bhavyasharma/}{\bf Portfolio} \\
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.35\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{Undergraduate}
+\descript{IIT Jodhpur}
+\descript{B.Tech | Electrical Engineering}
+\location{2024 | Jodhpur,India}
+\descript{Cgpa: 7.45/10 \\}
+\sectionsep
+\subsection{SENIOR SECONDARY SCHOOL}
+\descript{Divine Child High School | CBSE}
+\location{2020 | Surat, India }
+\descript{Percentage: 94.80\%}
+\sectionsep
+\subsection{SECONDARY SCHOOL}
+\descript{Ryan International School | CBSE}
+\location{2018 | Surat, India }
+\descript{Percentage: 95.20\%}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Languages}
+\textbullet{}  Python   \textbullet{}  C/C++    \textbullet{}  Verilog \\  
+\location{Familiar:} 
+\textbullet{}  SQL  \textbullet{} Java\\
+\subsection{Web Development}
+\textbullet{} HTML \textbullet{} CSS \textbullet{} Bootstrap \\
+\textbullet{} Javascript  \\
+\location{Familiar:}
+\textbullet{} Flask  \textbullet{} Django \textbullet{} NodeJs \\
+\subsection{Data Science}
+\textbullet{} Pandas \textbullet{} Numpy \textbullet{} Pytorch \\
+ \textbullet{} Scikit Learn  \\
+\location{Familiar:}
+\textbullet{} Tensorflow \textbullet{} Keras \\
+\subsection{Others}
+\textbullet{} Solidworks \textbullet{} Matlab \textbullet{} Git \\ \textbullet{} OpenCV \textbullet{} Figma\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Courses}
+Introduction to Computer Science \\
+Data Structure and algorithms \\
+Pattern Recognition and Machine Learning \\
+Probability, Statistics and Stochastic    process \\
+Signals \& Systems \\
+Digital Design  \\
+Circuit Theory,Physical Electronics \\ Foundations of Quantum Information\\
+DS-Algos(Udemy)\\
+Web Development(Coursera)
+\sectionsep
+
+\section{Links} 
+Github:\href{https://github.com/BhavyaSharma0212}{\bf BhavyaSharma \faExternalLink} \\
+LinkedIn:\href{https://www.linkedin.com/in/bhavya-sharma-04772b209/}{\bf Bhavya Sharma \faExternalLink} \\
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.63\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \runsubsection{Loan App}
+% \descript{| Self Project}
+% \location{May 2021- June 2021 
+% \href{https://github.com/ShubhDoshi/LoanApp}{\bf | Github \faExternalLink}}
+% \begin{tightemize}
+\section{EXPERIENCE}
+
+\runsubsection{{Software Development Intern}}
+\descript{| DEEPTHOUGHT EDUTECH}
+\location{June 2022- present }
+\vspace{2mm}
+\begin{tightemize}
+\item Designing user-friendly and easily understandable UI for the app Adtech 
+\item Building the frontend of features like notifications,blogs etc. on the app\\
+Tech-Stack: \textbf{ JavaScript,Figma}
+\end{tightemize}
+
+
+\runsubsection{{SUMMER RESEARCH ASSIATANT }}
+\descript{| UNDERSTANDING THE PROPERTIES OF CONDUCTING YARNS}
+\location{ May 2022- present | Mentor:Dr.Ajay Agarwal}
+\begin{tightemize}
+\item Experimenting and studying the electrical and mechanical properties of conducting yarns with different weaving patterns
+\item Working on applications using results obtained from the properties of yarn
+\end{tightemize}
+
+\runsubsection{{INTER IIT TECH MEET 10.0}}
+\descript{| IDENTIFICATION OF SOLAR BURSTS}
+\location{Feb 2022- March 2022 
+\href{https://github.com/BhavyaSharma0212/inter-iit-tech}{\bf | Github \faExternalLink}}\\
+
+\begin{tightemize}
+\item Built a stand-alone web-based application to identify and categorize X-ray bursts for ISRO problem statement 
+\item Formed the classification model using statistical model based on the x-ray light curves\\
+Tech-Stack: \textbf{ Python, Flask,HTML}
+\end{tightemize}
+
+
+
+\section{Projects}
+\runsubsection{{Motion Magnification}}
+\descript{| Design Credit Project}
+\location{July 2021-December 2021 | Mentor: \textbf{Dr. Rajendra Nagar}
+\href{https://github.com/BhavyaSharma0212/Phase-Based-Motion-Magnification}{\bf | Github \faExternalLink}}\\
+\vspace{0.5mm}
+\begin{tightemize}
+\item Developed a method of motion magnification that supports larger magnification factors and does not amplify the noise
+\item Analyzed the signals of local phase over time in different spatial scales and orientations to manipulate the underlying motion\\
+Tech-Stack: \textbf{Python,OpenCV}
+ \end{tightemize}
+
+
+\runsubsection{{Heart Failure Prediction |}}
+\descript{| Course project}
+\location{April 2022- May 2020| Mentor: \textbf{Dr.Richa Singh}
+\href{https://github.com/BhavyaSharma0212/ml_heart_failure_prediction}{\bf | Github \faExternalLink}}\\
+\begin{tightemize}
+\item Deployed a machine learning classification model using django to predict the risk of heart failure
+\item Trained the model on different classifiers and deep learning model to increase the accuracy of prediction\\
+Tech-Stack: \textbf{Django,HTML,Bootstrap,Pandas, NumPy, Matplotlib}
+\end{tightemize}
+
+
+\runsubsection{{Bitcoin Prediction |}}
+\descript{| Course project}
+\location{April 2022- May 2020| Mentor: \textbf{Dr.Richa Singh} }
+\begin{tightemize}
+\item Developed a machine learning classification model to estimate the future valuation of bitcoin
+\item Used LSTM models and regression models to get better accuracy for the prediction\\
+Tech-Stack: \textbf{Python, Pandas, NumPy, Matplotlib}
+\end{tightemize}
+\sectionsep
+
+
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{POR and Achievements}
+\vspace{0.5 mm}
+\begin{tightemize}
+\item Represented IIT Jodhpur at \textbf{Inter-IIT Tech Meet 10.0} \& \textbf{Secured 8th position} overall among 23 IITs
+\item International rank:\textbf{309} , National Science Olympiad(2017-2018)
+\item  \textbf{Joint Secretary} of the dance society of IIT Jodhpur
+\item Assitstant Head, Publicity and Marketing Team(Varchas'2022)
+\end{tightemize}
+\sectionsep
+
+
+
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
