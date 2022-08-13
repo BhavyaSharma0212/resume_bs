@@ -1,0 +1,176 @@
+\documentclass[8pt]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+\namesection{Bhavya}{Sharma}{
+Pre-final Year | Electrical Engineering | IIT Jodhpur
+
+\href{mailto:bhavyasharma1210@gmail.com}{bhavyasharma1210@gmailcom} |  +91-9227184291 | \href{
+https:https://bhavyasharma0212.github.io/bhavyasharma/}{\bf Portfolio} \\
+}
+
+\begin{minipage}[t]{0.35\textwidth}
+
+
+
+\section{Education}
+
+\subsection{Undergraduate}
+\descript{IIT Jodhpur}
+\descript{B.Tech | Electrical Engineering}
+\location{2024 | Jodhpur,India}
+\descript{Cgpa: 7.45/10 \\}
+\sectionsep
+\subsection{SENIOR SECONDARY SCHOOL}
+\descript{Divine Child High School | CBSE}
+\location{2020 | Surat, India }
+\descript{Percentage: 94.80\%}
+\sectionsep
+\subsection{SECONDARY SCHOOL}
+\descript{Ryan International School | CBSE}
+\location{2018 | Surat, India }
+\descript{Percentage: 95.20\%}
+\sectionsep
+
+\vspace{-3mm}
+\section{Skills}
+\subsection{Languages}
+\textbullet{}  Python   \textbullet{}  C/C++    \textbullet{}  Verilog \\  
+\location{Familiar:} 
+\textbullet{}  SQL  \textbullet{} Java\\
+\subsection{Framework}
+\textbullet{} HTML \textbullet{} CSS \textbullet{} Bootstrap \\
+
+\location{Familiar:}
+\textbullet{} Flask  \textbullet{} Django \textbullet{} NodeJs \textbullet{} Javascript  \\
+\subsection{Deep Learning}
+\textbullet{}Pandas\textbullet{} Numpy \textbullet{}Pytorch\\
+\location{Familiar:}
+\textbullet{} Tensorflow \textbullet{} Keras \\
+\subsection{Others}
+\textbullet{} Solidworks \textbullet{} Matlab \textbullet{} OpenCV \textbullet{} Figma\\
+\textbullet{} Team Work \textbullet{} Leadership\textbullet{} Verbal and Written Communication\\
+
+
+\section{Courses}
+\subsection{UNDERGRADUATE}
+Introduction to Computer Science \\
+Data Structure and algorithms \\
+Pattern Recognition and Machine Learning \\
+Probability, Statistics and Stochastic    process \\
+Signals \& Systems ,Digital Design  \\
+Circuit Theory,Physical Electronics \\ Foundations of Quantum Information\\
+\section{MOOC's}
+Web App Development \\
+User Interface Personalization\\
+\sectionsep
+
+\section{Links} 
+Github:\href{https://github.com/BhavyaSharma0212}{\bf BhavyaSharma \faExternalLink} \\
+LinkedIn:\href{https://www.linkedin.com/in/bhavya-sharma-04772b209/}{\bf Bhavya Sharma \faExternalLink} \\
+\sectionsep
+
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.63\textwidth}
+
+\section{EXPERIENCE}
+
+\runsubsection{{Algorithm Developer}}
+\descript{| REACH TECHNOLOGIES}
+\location{August 2022- present }
+\vspace{2mm}
+\begin{tightemize}
+\item Identifying good approaches to solve problems in research papers on \textbf{ computer vision, image processing, OCR}\\
+\item Develop algorithms for pilot projects based on  \textbf{ IoT, machine learning,CNC}\\
+Tech-Stack: \textbf{Pthon,C++,OpenCV,Tensorflow}
+\end{tightemize}
+
+
+\runsubsection{{SUMMER RESEARCH ASSISTANT}}
+\descript{| UNDERSTANDING PROPERTIES OF CONDUCTING YARNS}
+\location{ May 2022- July 2022 | Mentor:Dr.Ajay Agarwal}
+\vspace{-1.5mm}
+\begin{tightemize}
+\item Experimented on tungsten and blended steel based yarn samples at \textbf{Centre of Advanced Scientific Experiments,IITJ}
+\item Properties obtained were used for possible applications like \textbf{heart attack sensor , sensors for underwater workstations}
+\end{tightemize}
+
+\runsubsection{{INTER-IIT TECH MEET}}
+\descript{| IDENTIFICATION OF SOLAR BURSTS}
+\vspace{-1mm}
+\location{Feb 2022- March 2022 
+\href{https://github.com/BhavyaSharma0212/inter-iit-tech}{\bf | Github \faExternalLink}}\\
+\vspace{-1mm}
+\begin{tightemize}
+\item Worked on the algorithm used to identify and categorize X-ray bursts
+\item Formed the classification model using statistical model based on the x-ray light curves\\
+Tech-Stack: \textbf{ Python, Flask,HTML}
+\end{tightemize}
+\vspace{-3.5mm}
+\subsection{}
+
+\section{Projects}
+\runsubsection{{Motion Magnification}}
+\descript{| Design Credit Project}
+\location{July 2021-December 2021 | Mentor: \textbf{Dr. Rajendra Nagar}
+\href{https://github.com/BhavyaSharma0212/Phase-Based-Motion-Magnification}{\bf | Github \faExternalLink}}\\
+\vspace{-1.5mm}
+\begin{tightemize}
+\item Developed algorithm that supports larger magnification factors and does not amplify the noise
+\item Analyzed the signals of local phase over time in different spatial scales and orientations to manipulate the underlying motion\\
+Tech-Stack: \textbf{Python,OpenCV}
+ \end{tightemize}
+
+
+\runsubsection{{Heart Failure Prediction |}}
+\descript{| Course project}
+\location{April 2022- May 2020| Mentor: \textbf{Dr.Richa Singh}
+\href{https://github.com/BhavyaSharma0212/ml_heart_failure_prediction}{\bf | Github \faExternalLink}}\\
+\vspace{-1.5mm}
+\begin{tightemize}
+\item Deployed a machine learning classification model using django to predict the risk of heart failure
+\item Trained the model on different classifiers and deep learning model to increase the accuracy of prediction\\
+Tech-Stack: \textbf{Django,HTML,Bootstrap,Pandas, NumPy, Matplotlib}
+\end{tightemize}
+
+
+\runsubsection{{Facebook Messenger Clone|}}
+\descript{| Self project}
+\location{April 2022- May 2022
+\href{https://github.com/BhavyaSharma0212/facebook_messenger_clone/tree/main}{\bf | Github \faExternalLink}}\\
+\vspace{-0.5 mm}
+\begin{tightemize}
+\item Created a full Realtime Chat Application with \textbf{Social Authentication} and dedicated \textbf{chat APIs/sockets}
+\item Features like \textbf{online statuses, image support, sound notifications, the ability to create multiple rooms} were added\\
+Tech-Stack: \textbf{React JS, FireBase,HTML,CSS}
+\end{tightemize}
+
+\vspace{-2.5mm}
+\section{Position of responsibility}
+\vspace{0.5 mm}
+\begin{tightemize}
+\item  \textbf{Joint Secretary} of the dance society of IIT Jodhpur
+\item Assistant Head, Publicity and Marketing Team(Varchas'2022)
+\item Assistant Head, Informal Events(Spandan'2022)
+\end{tightemize}
+\sectionsep
+\vspace{-4 mm}
+\section{Achievements}
+\vspace{0.5 mm}
+\begin{tightemize}
+\item Represented IIT Jodhpur at \textbf{Inter-IIT Tech Meet 10.0} \& \textbf{Secured 8th position} overall among 23 IITs
+\item International rank:\textbf{309} | \textbf{National Science Olympiad(2017-2018)}
+% \item Member of Basketball team of IITJ
+\end{tightemize}
+\sectionsep
+
+
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
